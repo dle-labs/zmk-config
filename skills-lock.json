@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "keymap-ai": {
+      "source": "johncattrall/keymap-ai",
+      "sourceType": "github",
+      "skillPath": "skills/keymap-ai/SKILL.md",
+      "computedHash": "c9bd6450a21ba362fa02413fa01c6e2bff980545963bd7dc88d48eab49464bd2"
+    }
+  }
+}
